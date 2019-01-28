@@ -1,7 +1,7 @@
 # Sam H.
 ![Profile Photo](https://media.licdn.com/dms/image/C4D03AQFEPFs-IbOUDw/profile-displayphoto-shrink_100_100/0?e=1554336000&v=beta&t=OM6rPPH7zYHdLXVkkgyqqiXRgjKaPP0vp8jt4PD9vz8)
 ## All About Me
-### Prepared for OPIM 3224 [^1]
+### Prepared for OPIM 3224
 ---
 
 My name is Sam and I'm a dual-degree student in Engineering and Business.
@@ -45,4 +45,4 @@ These are the 4 languages I speak in order of fluency:
 3. Mandarin Chinese (Basic)
 4. Spanish (Basic)
 
-[^1]: This is our first assignment!
+This is our first assignment!
