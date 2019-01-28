@@ -20,7 +20,8 @@ I've done some coding before in:
 ---
 
 ### LinkedIn
-Please add me on [LinkedIn](https://www.linkedin.com/in/samshuang/). 
+> Please add me!
+[Sam's Profile Link](https://www.linkedin.com/in/samshuang/) 
 ---
 
 ### Past Courses
@@ -38,7 +39,7 @@ Here's the CS/OPIM courses I've already taken and the ones I'm currently taking.
 ---
 
 ### Fun Fact
-These are the languages I speak in order of fluency: 
+These are the 4 languages I speak in order of fluency: 
 1. English (Native)
 2. Chinese Cantonese (Fluent)
 3. Mandarin Chinese (Basic)
