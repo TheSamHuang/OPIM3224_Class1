@@ -12,11 +12,11 @@ My degrees are:
 
 ### Past Coding Experience
 I've done some coding before in:
-- 'HTML'
-- 'Python'
-- 'C#' 
-- 'Scheme' (Lisp)
-- 'PowerShell'
+- `HTML`
+- `Python`
+- `C#`
+- `Scheme` (Lisp)
+- `PowerShell`
 ---
 
 ### LinkedIn
